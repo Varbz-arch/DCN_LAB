@@ -123,6 +123,8 @@
 
 //     return 0;
 // }
+
+
 // #include <stdio.h>
 // #include <string.h>
 // void charToBinary(char ch, int bits[]) {
